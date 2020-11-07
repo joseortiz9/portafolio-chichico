@@ -1,0 +1,47 @@
+.banner_rojo{
+	background-color: red;
+	font-family: Arial;
+	font-size: 30px;
+	color: black;
+	padding: 0 0 0 5%;
+}
+
+.footer{
+	background-color: black;
+	text-align: center;
+	vertical-align: center;
+	color: white;
+}
+
+body{
+	background-color: black;
+	color: white;
+	font-family:Roboto;
+}
+
+.nav-menu {
+  display: block;
+  padding: 0.5rem 1rem;
+  color: white;
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.nav-menu:hover {
+  text-decoration: none;
+	color: dimgray;
+}
+
+a {
+  color: #ACACAC;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover {
+  color: dimgray;
+  text-decoration: none;
+	}
+
+
